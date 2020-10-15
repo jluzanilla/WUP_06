@@ -55,6 +55,13 @@ About 34% of people who do not believe in the postlife believe that the bigbang 
 
 <!--State hypothesis clearly.  Make sure your discussion of the inferential test covers all the aspects that the test output produces, such as test statistic, p-value etc.  Make a decision about the null hypothesis, explain the assumptions on which the selected test/procedure was based, and why the chosen procedure satisfys the assumptions and is appropriate to answer the research question!-->
 
+```{r}
+chisq.test(table1)
+chisqtestGC(table1)
+fisher.test(table1)
+```
+
+Let's talk about odd's for a second, of those who believe in postlife what are the odd's that you say bigbang theory is false? For those who said NO the odd's of saying the belief of postlife is false is 8/15 now suppose that you do believe in postlife the odds are 88/67. odds ratio is 1. If we had more data these results would be more significant to make a determination. odds ratio is .406:1 .
 
 # Discussion and Conclusion
 
