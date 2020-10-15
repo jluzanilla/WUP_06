@@ -66,3 +66,5 @@ Let's talk about odd's for a second, of those who believe in postlife what are t
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+Data does not show that we failed to reject the null hypothesis because there is not enough data to show. The probability of getting something in life again is .08% of the time which is also the p, value. 
